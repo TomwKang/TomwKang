@@ -3,7 +3,7 @@
 
 ![GitHub followers](https://img.shields.io/github/followers/TomwKang?logo=Github) ![GitHub User's stars](https://img.shields.io/github/stars/TomwKang?affiliations=OWNER%2CCOLLABORATOR&label=all%20stars&logo=Github)
 
-I'm Kang Wen(文康), you can also call me TOM, an undergraduate student at SCU.
+I'm Kang Wen(文康), you can also call me **TOM**, an undergraduate student at SCU.
 
 ### 🎓 Experience:
 - *(TODO) M.E. in School of Computer, NUDT (National University of Defense Technology) (2023 ~ )*
