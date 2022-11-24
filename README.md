@@ -1,17 +1,18 @@
-### Hi there 👋 
+### Hello, my friend!（同志，你好！）
 
 
 ![GitHub followers](https://img.shields.io/github/followers/TomwKang?logo=Github) ![GitHub User's stars](https://img.shields.io/github/stars/TomwKang?affiliations=OWNER%2CCOLLABORATOR&label=all%20stars&logo=Github)
 
-I'm Kang Wen(文康), you also can call me TOM, an undergraduate student at SCU.
+I'm Kang Wen(文康), you can also call me TOM, an undergraduate student at SCU.
 
 ### 🎓 Experience:
-- Bachelor, Internet of Things Engineering, Computer Science, Sichuan University (2019 ~ 2023)
+- (TODO) M.E. in School of Computer, NUDT (National University of Defense Technology) (2023 ~ )
+- B.E. in School of Computer, SCU (Sichuan University) (2019 ~ 2023)
 
-### 🔭 Interests: 
-- mobile robots: 
-* Planning and Control.
-* Simultaneous localization and mapping(SLAM).
+### 🔭 Interests:
+- Robotics
+    - Planning and Control (PNC)
+    - Simultaneous localization and mapping (SLAM).
 
 ### 🛠️ Programming skills
 * C/C++
