@@ -3,10 +3,10 @@
 
 ![GitHub followers](https://img.shields.io/github/followers/TomwKang?logo=Github) ![GitHub User's stars](https://img.shields.io/github/stars/TomwKang?affiliations=OWNER%2CCOLLABORATOR&label=all%20stars&logo=Github)
 
-I'm Wen Kang (文康), you can also call me **TOM**, an undergraduate student at SCU.
+I'm Wen Kang (文康), you can also call me **TOM**, an undergraduate student at SCU (Sichuan University).
 
 ### 🎓 Experience:
-- *(TODO) M.E. in School of Computer, NUDT (National University of Defense Technology) (2023 ~ )*
+- ***M.E. in School of Computer, NUDT (National University of Defense Technology) (2023 ~ 2026)***
 - ***B.E. in School of Computer, SCU (Sichuan University) (2019 ~ 2023)***
 
 ### 🔭 Interests:
