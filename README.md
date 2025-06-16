@@ -11,6 +11,7 @@ I'm Wen Kang (文康), you can also call me **TOM**, an undergraduate student at
 
 ### 🔭 Interests:
 - Robotics
+    - Embodied AI 
     - Planning and Control (PNC)
     - Simultaneous localization and mapping (SLAM).
 
